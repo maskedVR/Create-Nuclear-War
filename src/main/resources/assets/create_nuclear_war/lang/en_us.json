@@ -1,0 +1,17 @@
+{
+  "item_group.create_nuclear_war.nuclear_war": "Nuclear War",
+  "item.create_nuclear_war.uranium_powder": "Uranium Powder",
+  "block.create_nuclear_war.nuke": "Nuke",
+  "block.create_nuclear_war.compacted_uranium": "Compacted Uranium",
+  "block.create_nuclear_war.uranium_ore": "Uranium Ore",
+  "item.create_nuclear_war.uranium": "Uranium Ingot",
+  "entity.create_nuclear_war.uranium_monster": "Uranium Monster?",
+  "item.create_nuclear_war.hazmat_suit_leggings": "Hazmat Suit Leggings",
+  "block.create_nuclear_war.nuclear_power_conductor": "Nuclear Power Conductor",
+  "item.create_nuclear_war.hazmat_suit_helmet": "Hazmat Suit Helmet",
+  "gui.create_nuclear_war.nuclear_power_conductor_screen.label_nuclear_power_conductor": "Nuclear Power Conductor",
+  "item.create_nuclear_war.uranium_monster_spawn_egg": "Uranium Monster? Spawn Egg",
+  "item.create_nuclear_war.nuclear_fuel": "Nuclear Fuel",
+  "item.create_nuclear_war.hazmat_suit_boots": "Hazmat Suit Boots",
+  "item.create_nuclear_war.hazmat_suit_chestplate": "Hazmat Suit Chestplate"
+}

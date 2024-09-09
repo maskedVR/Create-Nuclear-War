@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },   
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "item": "create_nuclear_war:uranium",
+      "amount": 9
+    }
+  ],
+  "results": [
+    {
+      "item": "create_nuclear_war:compacted_uranium"
+    }
+  ]
+}

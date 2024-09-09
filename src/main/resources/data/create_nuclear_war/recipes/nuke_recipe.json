@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "A": {
+      "item": "create_nuclear_war:uranium_powder"
+    },
+    "P": {
+      "tag": "create_nuclear_war:armor"
+    },
+    "S": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    " AAA ",
+    "AAPAA",
+    "APSPA",
+    "AAPAA",
+    " AAA "
+  ],
+  "result": {
+    "count": 1,
+    "item": "create_nuclear_war:nuke"
+  }
+}

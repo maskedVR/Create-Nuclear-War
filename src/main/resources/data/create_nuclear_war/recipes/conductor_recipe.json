@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_nuclear_war:uranium"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "create_nuclear_war:nuclear_power_conductor"
+    }
+  ]
+}

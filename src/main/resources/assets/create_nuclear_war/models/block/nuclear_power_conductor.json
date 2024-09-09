@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "create_nuclear_war:block/sprite_1",
+    "up": "create_nuclear_war:block/sprite_1",
+    "north": "create_nuclear_war:block/sprite_0",
+    "east": "create_nuclear_war:block/sprite_1",
+    "south": "create_nuclear_war:block/sprite_2",
+    "west": "create_nuclear_war:block/sprite_1",
+    "particle": "create_nuclear_war:block/sprite_1"
+  },
+  "render_type": "cutout_mipped"
+}

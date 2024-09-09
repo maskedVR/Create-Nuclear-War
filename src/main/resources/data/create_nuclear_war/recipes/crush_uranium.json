@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_nuclear_war:uranium_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cobblestone",
+      "count": 1,
+      "chance": 0.25
+    },
+    {
+      "item": "create_nuclear_war:uranium",
+      "count": 2
+    }
+  ],
+  "processingTime": 300
+}

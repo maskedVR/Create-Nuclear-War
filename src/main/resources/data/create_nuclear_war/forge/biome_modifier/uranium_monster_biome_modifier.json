@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "create_nuclear_war:uranium_monster",
+    "weight": 1,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

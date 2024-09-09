@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "create_nuclear_war:hazmat_suit_helmet",
+    "create_nuclear_war:hazmat_suit_chestplate",
+    "create_nuclear_war:hazmat_suit_leggings",
+    "create_nuclear_war:hazmat_suit_boots"
+  ]
+}

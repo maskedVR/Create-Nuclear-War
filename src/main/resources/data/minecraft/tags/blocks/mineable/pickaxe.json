@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "create_nuclear_war:uranium_ore",
+    "create_nuclear_war:compacted_uranium",
+    "create_nuclear_war:nuclear_power_conductor"
+  ]
+}

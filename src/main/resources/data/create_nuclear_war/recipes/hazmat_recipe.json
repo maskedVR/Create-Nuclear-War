@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_nuclear_war:nuclear_fuel"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_nuclear_war:hazmat_suit_helmet",
+      "chance": 0.001
+    },
+    {
+      "item": "create_nuclear_war:hazmat_suit_chestplate",
+      "chance": 0.001
+    },
+    {
+      "item": "create_nuclear_war:hazmat_suit_leggings",
+      "chance": 0.001
+    },
+    {
+      "item": "create_nuclear_war:hazmat_suit_boots",
+      "chance": 0.001
+    }
+  ]
+}

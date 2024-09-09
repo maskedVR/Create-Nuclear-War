@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "create_nuclear_war:uranium",
+      "count": 2
+    },
+    {
+	  "item": "minecraft:gunpowder"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_nuclear_war:uranium_powder",
+      "count": 2
+    }
+  ],
+  "processingTime": 300
+}

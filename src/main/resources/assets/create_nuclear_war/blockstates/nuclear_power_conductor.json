@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_nuclear_war:block/nuclear_power_conductor"
+    }
+  }
+}

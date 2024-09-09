@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "create_nuclear_war:block/ligmas",
+    "up": "create_nuclear_war:block/ligmas",
+    "north": "create_nuclear_war:block/ligma",
+    "east": "create_nuclear_war:block/ligma",
+    "south": "create_nuclear_war:block/ligma",
+    "west": "create_nuclear_war:block/ligma",
+    "particle": "create_nuclear_war:block/ligmas"
+  },
+  "render_type": "solid"
+}
